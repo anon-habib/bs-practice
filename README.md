@@ -1,1 +1,1 @@
-# bs-practice
+published at: https://anon-habib.github.io/bs-practice/
